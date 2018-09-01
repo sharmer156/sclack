@@ -1,7 +1,7 @@
 # Sclack
 
 > The best CLI client for Slack, because everything is terrible!
-
+## Sclack 是基于 Python 的 Slack CLI 客户端实现
 ![Sclack](./resources/example.png)
 
 ## Disclaimer
